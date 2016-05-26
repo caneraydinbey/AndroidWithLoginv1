@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="refresh" type="id"/>
+    <item name="settings" type="id"/>
+    <item name="imgAnswer" type="id"/>
+    <item name="imgOne" type="id"/>
+    <item name="imgTwo" type="id"/>
+    <item name="imgThree" type="id"/>
+    <item name="imgFour" type="id"/>
+    <item name="imgFive" type="id"/>
+</resources>
